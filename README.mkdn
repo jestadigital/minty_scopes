@@ -1,7 +1,7 @@
 What
 ====
 
-A collection of handy `named_scope`s that you should be able to use in just about any model.
+A collection of handy `scope`s that you should be able to use in just about any model.
 
 Why
 ===

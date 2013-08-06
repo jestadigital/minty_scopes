@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--line-numbers", "--inline-source", "--main", "README.txt"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
-  s.summary = %q{Useful, reusable named_scopes for ActiveRecord.}
+  s.summary = %q{Useful, reusable scopes for ActiveRecord.}
   s.test_files = [
     "test/test_helper.rb",
      "test/units/associations_test.rb",

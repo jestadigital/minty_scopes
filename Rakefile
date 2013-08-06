@@ -15,7 +15,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "minty_scopes"
-    gem.summary = %Q{Useful, reusable named_scopes for ActiveRecord.}
+    gem.summary = %Q{Useful, reusable scopes for ActiveRecord.}
     gem.email = "philnash@gmail.com"
     gem.homepage = "https://github.com/mintdigital/minty_scopes"
     gem.authors = ["Dean Strelau", "Mint Digital"]
